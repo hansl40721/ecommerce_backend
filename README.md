@@ -25,6 +25,9 @@
 
   Start up the server by running npm start in your terminal
 
+  [E-Commerce Demo Video.webm](https://github.com/hansl40721/ecommerce_backend/assets/123116520/3ab3c6fd-2bf9-40a0-a5c7-200e92085032)
+
+
   ## Tests
 
   NA
